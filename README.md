@@ -13,4 +13,8 @@ Para este projeto, foi utilizado dois algoritmos, são eles: Regressão Logísti
 Os resultados incluem as métricas de desempenho do modelo e os insights obtidos a partir das previsões feitas pelo modelo.
 
 ## Conclusão
-Reflexões sobre o que foi aprendido durante o projeto e possíveis melhorias ou próximos passos são discutidos na seção final.
+Com base nos resultados do projeto, podemos concluir que os modelos de machine learning utilizados, Regressão Logística e Árvore de Decisão, foram eficazes na predição de obesidade. As métricas extraídas desses modelos indicam que a variável 'Weight' (Peso) tem a maior influência na predição, seguida pela variável 'Height' (Altura). Além disso, a variável 'FAVC', que se refere à ingestão de alimentos calóricos, também tem uma alta taxa de influência nos resultados.
+
+É importante ressaltar que o modelo está prevendo corretamente 98% dos novos dados, o que indica um alto nível de precisão. Isso sugere que o modelo pode ser uma ferramenta útil para identificar fatores de risco para a obesidade e ajudar na prevenção e tratamento desta condição.
+
+No entanto, é importante lembrar que, embora esses resultados sejam promissores, eles são baseados nos dados disponíveis e podem não ser generalizáveis para todas as populações. Além disso, outros fatores além do peso, altura e ingestão de alimentos calóricos podem influenciar a obesidade. Portanto, mais pesquisas são necessárias para aprimorar ainda mais esses modelos e entender completamente os complexos fatores que contribuem para a obesidade.
